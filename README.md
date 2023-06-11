@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pritamdutta7498?tab=repositories](https://github.com/Pritamdutta7498?tab=repositories)
 
-- 💬 Ask me about **html, css, javascript, react,bootstrap, tailwind**
+- 💬 Ask me about **html, css, javascript, react,bootstrap, tailwind, web development**
 
 - 📫 How to reach me **pritamdutta7498@gmail.com**
 
-- ⚡ Fun fact **I need chai/coffee for working with focus!**
+- ⚡ Fun fact **I need coffee for working with focus!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
