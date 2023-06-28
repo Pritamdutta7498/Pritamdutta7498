@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pritamdutta7498@gmail.com**
 
-- ⚡ Fun fact **I like kill the bugs the real bugs!**
+- ⚡ Fun fact **I like to kill the bugs!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
