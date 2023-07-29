@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pritamdutta7498@gmail.com**
 
-- ⚡ Fun fact **I like to kill the bugs!**
+- ⚡ Fun fact **My passions include writing, Go for a walk in the riverside and watching old movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
