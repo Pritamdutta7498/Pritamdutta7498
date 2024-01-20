@@ -1,6 +1,6 @@
 
 <!-- new update -->
-<img align="center" alt="coding" width="400" src="https://github.com/Pritamdutta7498/Pritamdutta7498/blob/main/error.gif">
+<img align="right" alt="coding" width="700" src="https://github.com/Pritamdutta7498/Pritamdutta7498/blob/main/error.gif">
 <h1 align="center">Hi 👋, I'm Pritam Dutta</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
